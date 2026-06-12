@@ -1,0 +1,15 @@
+[package]
+name = "my-rust-template"
+version = "0.1.0"
+description = "Add your description here"
+repository = "https://github.com/WilsonnnTan/my-rust-template"
+readme = "README.md"
+license = "GPL-3.0-or-later"
+keywords = []
+categories = []
+edition = "2024"
+
+[dependencies]
+
+[lints.rust]
+unsafe_code = "forbid"
